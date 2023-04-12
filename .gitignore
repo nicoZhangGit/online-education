@@ -19,6 +19,11 @@ target/
 *.iml
 *.ipr
 
+###代码生成器
+*.btl
+*.ftl
+*.vm
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/

@@ -1,4 +1,4 @@
-package com.zj.model;
+package com.zj.base.model;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
